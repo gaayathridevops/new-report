@@ -1,0 +1,1 @@
+Evvironment var : PATH =  till bin JDK , ANT , Maven, Gradle GI
