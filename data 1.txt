@@ -1,2 +1,6 @@
 Evvironment var : PATH =  till bin JDK , ANT , Maven, Gradle GI
+<<<<<<< HEAD
 dfvhbhasc
+=======
+hdbfdbsbs
+>>>>>>> ff0e4f8da1036f495c7554d4c9989e1198bd230e
